@@ -66,7 +66,7 @@ data_action = [
         title: "Disengage",
         icon: "journey",
         subtitle: "Prevent opportunity attacks",
-        description: "Your movement doesn't provoke opportunity attacks for the rest of the turn",
+        description: "Your movement doesn't provoke opportunity attacks for the rest of the turn.",
         reference: "PHB, pg. 192.",
         bullets: [
         ]
