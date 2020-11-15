@@ -130,7 +130,7 @@ data_action = [
     {
         title: "Hide",
         icon: "hood",
-        subtitle: "",
+        subtitle: "Attempt to hide",
         description: "Attempt to hide",
         reference: "PHB, pg. 192.",
         bullets: [
@@ -144,7 +144,7 @@ data_action = [
     {
         title: "Search",
         icon: "magnifying-glass",
-        subtitle: "",
+        subtitle: "finding something",
         description: "Devote your attention to finding something",
         reference: "PHB, pg. 193.",
         bullets: [
@@ -161,14 +161,14 @@ data_action = [
             "First, you decide what perceivable circumstance will trigger your reaction.",
             "Then, you choose the action you will take in response to that trigger, or you choose to move up to your speed in response to it.",
             "When the trigger occurs, you can either take your reaction right after the trigger finishes or ignore the trigger.",
-            "When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires concentration"
+            "When you ready a spell, you cast it as normal but hold its energy, which you release with your reaction when the trigger occurs. To be readied, a spell must have a casting time of 1 action, and holding onto the spell's magic requires concentration."
         ]
     },
     {
         title: "Use class feature",
         icon: "embrassed-energy",
         subtitle: "Some features use actions",
-        description: "Use a racial or class feature that uses an action",
+        description: "Use a racial or class feature that uses an action.",
         reference: "See class page for more information.",
         bullets: [
 
@@ -182,8 +182,8 @@ data_action = [
         reference: "PHB, pg. 197.",
         bullets: [
             "Make a Wisdom (Medicine) check with DC 10",
-            "On a success, the creature is stable and no longer needs to make death saving throws",
-            "A stable creature regains 1 hit point after 1d4 hours"
+            "On a success, the creature is stable and no longer needs to make death saving throws.",
+            "A stable creature regains 1 hit point after 1d4 hours."
         ]
     },
     {
